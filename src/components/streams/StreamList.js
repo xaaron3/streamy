@@ -1,7 +1,8 @@
 import React from 'react';
 
-const StreamList = () => {
+const StreamList = (state) => {
    return <div>StreamList</div>
 }
 
 export default StreamList;
+
